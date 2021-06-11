@@ -1,12 +1,10 @@
-### Hi there 👋
-
 <!--
 **Yashvi30/Yashvi30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 -->
 <h1 align="center">Hi 👋, I'm Yashvi Garg</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
 - 🔭 I’m currently working on [Dev Challenges](https://github.com/Yashvi30/devchallenges)
 
