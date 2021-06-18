@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frontend**
 
-- 📫 How to reach me **yashvigarg3042@gmail.com**
+- 📫 How to reach me **yashvi_garg@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
