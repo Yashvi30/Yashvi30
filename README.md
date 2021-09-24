@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Dev Challenges](https://github.com/Yashvi30/devchallenges)
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **Backend**
 
 - 📫 How to reach me **yashvi_garg@outlook.com**
 
