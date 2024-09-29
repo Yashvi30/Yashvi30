@@ -6,11 +6,11 @@
 <h1 align="center">Hi 👋, I'm Yashvi Garg</h1>
 <!-- <h3 align="center">A passionate frontend developer from India</h3> -->
 
-- 🔭 I’m currently working on [Dev Challenges](https://github.com/Yashvi30/devchallenges)
+<!--- 🔭 I’m currently working on [Dev Challenges](https://github.com/Yashvi30/devchallenges)-->
 
-- 🌱 I’m currently learning **Backend**
+<!--- 🌱 I’m currently learning **Backend**-->
 
-- 📫 How to reach me **yashvigarg3042@gmail.com**
+- 📫 How to reach me **yashvi.30.garg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
