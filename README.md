@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Yashvi Garg</h1>
-<h3 align="center">🚀 Full-Stack Developer | 🧠 AI Enthusiast | 🛠️ FastAPI & Spring Boot Specialist | ☁️ Cloud-Native Builder</h3>
+<h3 align="center">🚀 Full-Stack Developer </h3>
 
 ---
 
@@ -12,7 +12,7 @@
 - 🧩 Interested in **applied AI, backend scalability, and DX-focused dev tools**
 - 💡 Creating robust microservices using **FastAPI**, **Spring Boot**, and **PostgreSQL**
 - 🧠 Integrating **LLMs** via **OpenAI**, **LangChain**, **CrewAI**, and fine-tuned prompts
-- 🎯 Actively contributing to projects in **DevOps**, **social media automation**, and **cloud engineering**
+- 🎯 Actively contributing to projects in **DevOps**, **AI automation**, and **Cloud engineering**
 - 📫 Reach me at: [yashvi.30.garg@gmail.com](mailto:yashvi.30.garg@gmail.com)
 
 ---
@@ -29,24 +29,6 @@
 
 ---
 
-<h3 align="left">🧠 Featured Projects:</h3>
-
-- 🔐 **E-Notes (Spring Boot + Angular/React)**  
-  Secure digital notes & tasks with JWT auth, cloud upload, and full-feature Kanban board  
-  <sub>Spring Cache • Swagger • Docker • AWS EC2 • PDF/Excel export</sub>
-
-- 🤖 **OmniPost (Next.js + FastAPI + CrewAI)**  
-  AI-generated marketing content posted across social platforms with full customer-role management  
-  <sub>LangChain • PostgreSQL • OAuth2 • AI caption + image generation • RBAC • S3</sub>
-
-- 🧠 **AI Use Case Generator**  
-  GPT-4 powered AI problem-solution mapper using Streamlit & CrewAI agents  
-  <sub>Semantic Search • Embedding-based Retrieval • LangChain • B2B Intelligence</sub>
-
-- 📂 **Virtual File System using FusePy + Google Drive API**  
-  Custom file system abstraction minimizing local storage using remote drive integration
-
----
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
