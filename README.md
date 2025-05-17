@@ -7,12 +7,13 @@
 
 ---
 
-- 🔭 I’m currently building **AI-first SaaS platforms** at scale
-- 🌱 Learning: **LangChain, LLMOps, CrewAI, AI APIs, AWS architecture**
-- 🧩 Interested in **applied AI, backend scalability, and DX-focused dev tools**
-- 💡 Creating robust microservices using **FastAPI**, **Spring Boot**, and **PostgreSQL**
-- 🧠 Integrating **LLMs** via **OpenAI**, **LangChain**, **CrewAI**, and fine-tuned prompts
-- 🎯 Actively contributing to projects in **DevOps**, **AI automation**, and **Cloud engineering**
+- 🔭 Currently engineering **AI-first SaaS platforms** with production-grade scalability
+- 💻 Building robust frontend experiences using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 🌐 Architecting backend APIs and services with **Spring Boot**,  **FastAPI**, **Node.js**, and **PostgreSQL**
+- 🌱 Deepening expertise in **Golang**, **LLMOps**, **LangChain**, **CrewAI**, and **AWS cloud architecture**
+- 🧠 Integrating cutting-edge **LLMs** via **OpenAI APIs**, **LangChain**, **CrewAI**, and custom prompt engineering
+- ⚙️ Exploring distributed systems, CI/CD pipelines, and cloud automation with **Docker**, **Kubernetes**, and **GitHub Actions**
+- 🧩 Passionate about building scalable systems that blend **AI**, **DevOps**, and **cloud-native practices**
 - 📫 Reach me at: [yashvi.30.garg@gmail.com](mailto:yashvi.30.garg@gmail.com)
 
 ---
@@ -77,7 +78,7 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvi30&layout=compact&theme=radical" alt="Top Languages" width="75%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvi30&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </p>
 
 ---
