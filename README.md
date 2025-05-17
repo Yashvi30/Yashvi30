@@ -1,71 +1,117 @@
 <!--
 **Yashvi30/Yashvi30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 <h1 align="center">Hi 👋, I'm Yashvi Garg</h1>
-<h3 align="center">AI-Focused Full-Stack Developer | FastAPI & Next.js | DevOps | Cloud-Native Systems</h3>
+<h3 align="center">🚀 Full-Stack Developer | 🧠 AI Enthusiast | 🛠️ FastAPI & Spring Boot Specialist | ☁️ Cloud-Native Builder</h3>
 
+---
+
+- 🔭 I’m currently building **AI-first SaaS platforms** at scale
+- 🌱 Learning: **LangChain, LLMOps, CrewAI, AI APIs, AWS architecture**
+- 🧩 Interested in **applied AI, backend scalability, and DX-focused dev tools**
+- 💡 Creating robust microservices using **FastAPI**, **Spring Boot**, and **PostgreSQL**
+- 🧠 Integrating **LLMs** via **OpenAI**, **LangChain**, **CrewAI**, and fine-tuned prompts
+- 🎯 Actively contributing to projects in **DevOps**, **social media automation**, and **cloud engineering**
+- 📫 Reach me at: [yashvi.30.garg@gmail.com](mailto:yashvi.30.garg@gmail.com)
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yashvi-garg" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashvi garg" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/yashvi0_0" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yashvi0_0" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">🧠 Featured Projects:</h3>
+
+- 🔐 **E-Notes (Spring Boot + Angular/React)**  
+  Secure digital notes & tasks with JWT auth, cloud upload, and full-feature Kanban board  
+  <sub>Spring Cache • Swagger • Docker • AWS EC2 • PDF/Excel export</sub>
+
+- 🤖 **OmniPost (Next.js + FastAPI + CrewAI)**  
+  AI-generated marketing content posted across social platforms with full customer-role management  
+  <sub>LangChain • PostgreSQL • OAuth2 • AI caption + image generation • RBAC • S3</sub>
+
+- 🧠 **AI Use Case Generator**  
+  GPT-4 powered AI problem-solution mapper using Streamlit & CrewAI agents  
+  <sub>Semantic Search • Embedding-based Retrieval • LangChain • B2B Intelligence</sub>
+
+- 📂 **Virtual File System using FusePy + Google Drive API**  
+  Custom file system abstraction minimizing local storage using remote drive integration
+
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/62280206?s=200&v=4" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="center">
-  <a href="mailto:yashvi.30.garg@gmail.com">📫 yashvi.30.garg@gmail.com</a> |
-  <a href="https://linkedin.com/in/yashvi-garg" target="_blank">LinkedIn</a> |
-  <a href="https://leetcode.com/yashvi0_0" target="_blank">LeetCode</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashvi30&show_icons=true&theme=radical" alt="Yashvi's GitHub stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashvi30&layout=compact&theme=radical" alt="Top Languages" width="45%"/>
 </p>
 
 ---
 
-### 🚀 About Me
+<h3 align="left">🏆 Notable Achievements</h3>
 
-- 🔭 Currently building **AI automation platforms** using **FastAPI**, **LangChain**, **CrewAI**, and **LLMs**
-- 🧠 Exploring **microservices**, **DevOps**, and **cloud-native** architecture
-- 🧰 Skilled in **Spring Boot**, **Next.js**, **PostgreSQL**, **Docker**, and **AWS EC2/S3**
-- 🏆 Runners-Up @ **Airtel SheCodes** – Top 2 of 4,100+ participants
-- 💬 Ask me about **AI adoption for business**, **real-time systems**, or **production-ready full-stack apps**
-
----
-
-### 💼 Work Experience
-
-**Software Developer Intern – SolutionsTree FZ LLC**  
-*Jan 2025 – Jun 2025 | Remote*  
-- 🔧 Built a responsive, SEO-optimized website using **Next.js** + **TailwindCSS**  
-- 🧠 Engineered **OmniPost** – AI content automation with **FastAPI**, **CrewAI**, **LangChain**  
-- 🛡️ Implemented **OAuth2**, **role-based access**, REST APIs, and **AWS S3** file storage
+- 🥈 **Airtel SheCodes Hackathon (2024)** – *Runner-up among 4,100+ participants*
+- 📲 **Saturnalia App** – 12K+ downloads | Led 50+ cultural & tech events
+- 🎤 **Interviewed Don Norman** on Humanity-Centered Design (HCD)
+- 🛠️ Delivered 10+ full-stack applications with production-grade deployment
 
 ---
 
-### 🌟 Projects
+> “Build systems that scale, solve real pain, and simplify lives.” — Yashvi
 
-- **E-Notes** – Secure note/task app with **JWT Auth**, **Spring Boot**, **React/Angular**, **AWS EC2**
-- **AI Use Case Generator** – Business analyzer + GPT-4 idea generator via **LangChain** + **CrewAI**
-- **Virtual File System** – FUSE + **Google Drive API** to save local storage via cloud-backed on-demand access
-
----
-
-### 🛠️ Skills & Technologies
-
-**Languages**: Java, Python, JavaScript, TypeScript, C++, SQL  
-**Frontend**: React.js, Next.js, Angular, TailwindCSS, Material-UI  
-**Backend**: Spring Boot, FastAPI, Node.js, Express.js, Django, Flask  
-**Databases**: MySQL, PostgreSQL  
-**DevOps**: Docker, GitHub Actions, SonarQube, JMeter, Swagger  
-**Cloud**: AWS EC2, S3 | Auth: OAuth2, JWT  
-**Tools**: Git, VS Code, Figma, Power BI, Tableau  
-
----
-
-### 🔗 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/yashvi-garg" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://leetcode.com/yashvi0_0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashvi30&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
 
 
  -->
