@@ -86,7 +86,6 @@
 <h3 align="left">🏆 Notable Achievements</h3>
 
 - 🥈 **Airtel SheCodes Hackathon (2024)** – *Runner-up among 4,100+ participants*
-- 📲 **Saturnalia App** – 12K+ downloads | Led 50+ cultural & tech events
 - 🎤 **Interviewed Don Norman** on Humanity-Centered Design (HCD)
 - 🛠️ Delivered 10+ full-stack applications with production-grade deployment
 
