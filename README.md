@@ -91,7 +91,7 @@
 
 ---
 
-> “Build systems that scale, solve real pain, and simplify lives.” — Yashvi
+> “Build systems that scale, solve real pain, and simplify lives.”
 
 
 
